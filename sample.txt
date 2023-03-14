@@ -3,4 +3,8 @@ world
 
 git 2 更改
 
+<<<<<<< HEAD
 git 2 更改
+=======
+git1更改
+>>>>>>> ae61840a0e322d997185c2cb49f21d9ab8e6c575
